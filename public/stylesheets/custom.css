@@ -290,7 +290,7 @@ background:url(../images/quote-marks.png) no-repeat;
 }
 
 #request_header {
-	background-color: #f8f8f8;
+	background-color: #eee;
 }
 #follow_count {
 	color: #487890;
@@ -317,4 +317,7 @@ font-size: 28px;
 text-align:left;
 }
 #sitename:first-letter {
+}
+#authority_preview {
+  background-color: #eee;
 }
